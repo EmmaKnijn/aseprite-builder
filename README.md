@@ -2,8 +2,8 @@
 Build Aseprite using Github action
 
 # What should you do?
-- fork this repo
-- choose the platform you want to build
+- Fork this repo
+- Choose the platform you want to build
   ```yaml
   # file: .github/workflows/build_and_release.yaml
   # ...
